@@ -7,4 +7,14 @@ For this part of the project i used :
 - Alimentation for Raspberry Pi
 - SD Card of 8 Gb
 - BME280
-- Grove Led
+- Grove Led v2.0
+- Grove light sensor
+- Module Grove Base Hat Zero
+
+I2C : BME280,     
+Analog : Grove light sensor,    
+Digital : Grove Led v2.0, 
+
+I also built a box to protect it, I printed it with my 3D printer, I advice you to design yours in function of your board and the place where you store it.
+## Installation
+First of all, you need to have the noobs package installed on your Raspi or a C++ compatible OS.
